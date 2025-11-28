@@ -1,0 +1,11 @@
+name,category,barcode,quantity,unit,expiry_date,location,low_stock_threshold
+Milk,Dairy,5901234123457,2,L,2024-12-31,Fridge,0.5
+Bread,Grains,5900000000000,3,pcs,2024-12-10,Pantry,1
+Apples,Fruits,5000157000001,5,kg,2024-12-20,Fridge,2
+Cheddar Cheese,Dairy,5901234567890,0.5,kg,2025-01-15,Fridge,0.2
+Chicken Breast,Snacks,5902222222222,1.5,kg,2024-12-05,Freezer,1
+Spinach,Vegetables,5903333333333,0.3,kg,2024-11-30,Fridge,0.2
+Olive Oil,Spices,5904444444444,1,L,2025-06-30,Pantry,0.5
+Tomato Sauce,Other,5905555555555,2,bottle,2025-03-20,Pantry,1
+Orange Juice,Beverages,5906666666666,2,L,2024-12-15,Fridge,0.5
+Almonds,Snacks,5907777777777,0.75,kg,2025-02-28,Pantry,0.3
